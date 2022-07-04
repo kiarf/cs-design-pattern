@@ -1,0 +1,15 @@
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\bin\Debug\net6.0\tp2-builder.exe
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\bin\Debug\net6.0\tp2-builder.deps.json
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\bin\Debug\net6.0\tp2-builder.runtimeconfig.json
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\bin\Debug\net6.0\tp2-builder.dll
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\bin\Debug\net6.0\tp2-builder.pdb
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.csproj.AssemblyReference.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.AssemblyInfoInputs.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.AssemblyInfo.cs
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.csproj.CoreCompileInputs.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.dll
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\refint\tp2-builder.dll
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.pdb
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\tp2-builder.genruntimeconfig.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\cs-design-pattern\tp2-builder\obj\Debug\net6.0\ref\tp2-builder.dll

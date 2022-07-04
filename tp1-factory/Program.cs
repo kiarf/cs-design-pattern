@@ -117,3 +117,4 @@ public class Catalogue
         auto3.afficherCarac();
     }
 }
+
