@@ -1,0 +1,15 @@
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\bin\Debug\net6.0\tp1-factory.exe
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\bin\Debug\net6.0\tp1-factory.deps.json
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\bin\Debug\net6.0\tp1-factory.runtimeconfig.json
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\bin\Debug\net6.0\tp1-factory.dll
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\bin\Debug\net6.0\tp1-factory.pdb
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.csproj.AssemblyReference.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.AssemblyInfoInputs.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.AssemblyInfo.cs
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.csproj.CoreCompileInputs.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.dll
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\refint\tp1-factory.dll
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.pdb
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\tp1-factory.genruntimeconfig.cache
+C:\Users\FrançoisROULLAUD\Documents\Cours\DPC#\tp1-factory\obj\Debug\net6.0\ref\tp1-factory.dll
